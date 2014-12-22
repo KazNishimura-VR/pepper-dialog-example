@@ -1,0 +1,8 @@
+topic: ~test()
+language: jpj
+
+u:(こんにちは)こんにちは、突然ですが、犬と猫、どちらが好きですか？
+    u1:(犬)わん
+    u1:(猫)にゃー
+    u1:(e:Dialog/NotUnderstood)犬か猫でお願いします ^stayInScope
+    
